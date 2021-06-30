@@ -1,0 +1,6 @@
+git status
+git push -u origin master
+git restore .  or filename.extension
+git fetch filename
+git remote add origin URL
+    for example:- git remote add origin https://github.com/RamKumar2042/test3.git
